@@ -18,6 +18,8 @@ console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9], 9)); //8
 console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9], 3)); //2
 console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9], 1)); //0
 
+//Time complexity O(logn) because log basex y=z =>  y=x**z
+
 /*
 console.log(binarySearch([1, 2, 3, 4, 5, 6, 7, 8, 9], 5))
 1st iteration
